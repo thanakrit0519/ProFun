@@ -17,4 +17,8 @@ int main()
     }
     cout<<sum/10;
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f8ddb9d496340ccaf1dc6f16f4ac8542e818ffb0
